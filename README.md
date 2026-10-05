@@ -1,31 +1,71 @@
-# Burkem Auto Clicker
+<p align="center">
+  <img src="gorseller/ikon.png" width="96" alt="Erkemoz - Auto Clicker">
+</p>
 
-**Ücretsiz tuş basıcı ve oto tıklayıcı — Windows** · *Free key presser & auto clicker for Windows*
+<h1 align="center">Erkemoz - Auto Clicker</h1>
 
-## İndir / Download
+<p align="center">
+  <b>Ücretsiz oto tıklayıcı ve tuş otomasyonu — Windows</b><br>
+  <i>Free auto clicker &amp; key automation for Windows</i>
+</p>
 
-👉 **[Son sürümü indir / Download the latest version](https://github.com/erkemoz-wq/burkem-auto-clicker/releases/latest)**
-(`BurkemAutoClicker_Kurulum_x.y.z.exe`)
+<p align="center">
+  <a href="https://github.com/erkemoz-wq/erkemoz-auto-clicker/releases/latest"><b>⬇ Son sürümü indir · Download the latest version</b></a><br>
+  <sub><code>ErkemozAutoClicker_Kurulum_x.y.z.exe</code> · Windows 10 / 11 (64-bit)</sub>
+</p>
 
-Program yeni sürüm çıkınca kendisi haber verir ve tek tıkla güncellenir.
-*The app tells you when a new version is out and updates itself with one click.*
-
-## Neler yapar / Features
-
-- ⌨ **Tuşlar / Keys:** seçtiğin tuşları basılı tutar **ya da** istediğin aralıkla, istediğin kadar (ya da sonsuz) bas/bırak yapar.
-  *Hold keys down, or press/release them at any interval, any number of times (or endlessly).*
-- 🖱 **Oto tıklayıcı / Auto clicker:** sol / sağ / orta tık ya da kendi kombon (Sol → Sağ → E …), imlecin olduğu yere ya da sabit bir noktaya.
-  *Left / right / middle click or your own combo, at the cursor or a fixed point.*
-- Kısayolla aç/kapat, her pencerede çalışır; istersen yalnız seçtiğin program öndeyken.
-  *On/off with a hotkey, works in every window — or only while a program you choose is in front.*
-- Simge durumuna küçültünce tepside çalışmaya devam eder. *Keeps running in the system tray.*
-- 🌐 Türkçe · English · Deutsch · Français · Español · Português · Italiano · Русский
-- ☀/🌙 Açık ve koyu tema. *Light and dark theme.*
-
-## Güvenlik / Security
-
-Program makine koduna derlenir ve her açılışta kendi dosyalarının mührünü denetler; değiştirilmiş bir kopya açılmaz. Yalnız bu sayfadaki resmi sürümü indirin.
-*The app is compiled to native code and verifies its own files on every start; a modified copy will not run. Only download the official release from this page.*
+<p align="center">
+  <img src="gorseller/klavye-acik.png" width="300" alt="Klavye sekmesi, açık tema / Keyboard tab, light theme">
+  &nbsp;&nbsp;
+  <img src="gorseller/tiklayici-koyu.png" width="300" alt="Oto tıklayıcı sekmesi, koyu tema / Auto clicker tab, dark theme">
+</p>
 
 ---
-© erkemoz · erkemoz@proton.me · Ücretsizdir / Free to use
+
+## Türkçe
+
+### Neler yapar
+- **Klavye:** Seçtiğin tuşları basılı tutar ya da istediğin aralıkla, istediğin kadar (ya da sonsuz) basıp bırakır.
+- **Oto tıklayıcı:** Sol, sağ ya da orta tık; istersen kendi kombon (Sol → Sağ → E …). İmlecin olduğu yere ya da seçtiğin sabit bir noktaya tıklar.
+- Kısayolla açılıp kapanır, her pencerede çalışır. İstersen yalnız seçtiğin program öndeyken çalışır.
+- Simge durumuna küçültünce saatin yanındaki tepside çalışmaya devam eder.
+- 8 dil, açık ve koyu tema. Yeni sürüm çıkınca program haber verir ve tek tıkla güncellenir.
+
+### Kurulum
+1. Yukarıdaki bağlantıdan kurulum dosyasını indir ve çalıştır.
+2. Windows **"Bilgisayarınız Windows tarafından korundu"** derse **Ek bilgi → Yine de çalıştır**'a tıkla. Program henüz ücretli bir kod imzalama sertifikasıyla imzalı olmadığı için bu uyarı çıkabilir.
+
+### Gizlilik
+Program, kaç bilgisayarda kurulu olduğunu saymak için yalnız **rastgele bir kurulum numarası, sürüm ve arayüz dili** gönderir. İsim, IP adresi, dosya, tuş veya tıklama bilgisi gönderilmez ve saklanmaz. Ana penceredeki **"Anonim kullanım istatistiği gönder"** kutusunu kapatırsan hiçbir şey gönderilmez.
+
+### Bilmen gerekenler
+- Yönetici olarak çalışan pencerelere (ör. Görev Yöneticisi) Windows tuş ve tık gönderilmesine izin vermez.
+- Bazı çevrim içi oyunlar otomatik tıklamayı yasaklar. Kullandığın oyunun kurallarına uymak senin sorumluluğunda.
+- Program makine koduna derlenir ve her açılışta kendi dosyalarının mührünü denetler; değiştirilmiş bir kopya açılmaz. **Yalnız bu sayfadaki resmi sürümü indir.**
+
+---
+
+## English
+
+### Features
+- **Keyboard:** Hold keys down, or press and release them at any interval, any number of times (or endlessly).
+- **Auto clicker:** Left, right or middle click, or your own combo (Left → Right → E …), at the cursor or at a fixed point.
+- Toggle with a hotkey. Works in every window, or only while a program you choose is in front.
+- Keeps running in the system tray when minimized.
+- 8 languages, light and dark theme. The app tells you when a new version is out and updates with one click.
+
+### Installation
+1. Download the installer from the link above and run it.
+2. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**. This can appear because the app is not yet signed with a paid code-signing certificate.
+
+### Privacy
+To count how many computers it is installed on, the app sends only **a random install ID, the version and the interface language**. No name, IP address, files, keys or clicks are sent or stored. Uncheck **"Send anonymous usage statistics"** in the main window and nothing is sent.
+
+### Good to know
+- Windows does not allow sending keys or clicks to windows running as administrator (e.g. Task Manager).
+- Some online games prohibit automated clicking. Following the rules of the game is your responsibility.
+- The app is compiled to native code and verifies its own files on every start; a modified copy will not run. **Only download the official release from this page.**
+
+---
+
+<p align="center"><sub>© erkemoz · <a href="mailto:erkemoz@proton.me">erkemoz@proton.me</a> · Ücretsizdir / Free to use · Değiştirilip dağıtılamaz / Do not modify or redistribute</sub></p>
