@@ -42,6 +42,7 @@ Program, kaç bilgisayarda kurulu olduğunu saymak için yalnız **rastgele bir 
 - Yönetici olarak çalışan pencerelere (ör. Görev Yöneticisi) Windows tuş ve tık gönderilmesine izin vermez.
 - Bazı çevrim içi oyunlar otomatik tıklamayı yasaklar. Kullandığın oyunun kurallarına uymak senin sorumluluğunda.
 - Program makine koduna derlenir ve her açılışta kendi dosyalarının mührünü denetler; değiştirilmiş bir kopya açılmaz. **Yalnız bu sayfadaki resmi sürümü indir.**
+- 🛡 [VirusTotal raporu (1.9.3)](https://www.virustotal.com/gui/file/7aaee2b552db9d94f05908e4d879d4c5ab580bc6613be8a8b2dfe077506aa6a5): 71 antivirüsün 70'i temiz. Yapay zekâ tahminiyle tarayan tek bir motorun (DeepInstinct) uyarısı, imzasız programlarda sık görülen yanlış alarmdır.
 
 ---
 
@@ -65,6 +66,7 @@ To count how many computers it is installed on, the app sends only **a random in
 - Windows does not allow sending keys or clicks to windows running as administrator (e.g. Task Manager).
 - Some online games prohibit automated clicking. Following the rules of the game is your responsibility.
 - The app is compiled to native code and verifies its own files on every start; a modified copy will not run. **Only download the official release from this page.**
+- 🛡 [VirusTotal report (1.9.3)](https://www.virustotal.com/gui/file/7aaee2b552db9d94f05908e4d879d4c5ab580bc6613be8a8b2dfe077506aa6a5): 70 of 71 engines clean. The single flag comes from one ML-based engine (DeepInstinct) — a common false positive for unsigned apps.
 
 ---
 
