@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://github.com/erkemoz-wq/erkemoz-auto-clicker/releases/latest"><b>⬇ Son sürümü indir · Download the latest version</b></a><br>
   <sub><code>ErkemozAutoClicker_Kurulum_x.y.z.exe</code> · Windows 10 / 11 (64-bit)</sub>
+  <sub>🌐 <a href="https://erkemoz.app/auto-clicker/">erkemoz.app</a></sub>
 </p>
 
 <p align="center">
