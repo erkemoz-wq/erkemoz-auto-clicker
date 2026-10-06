@@ -68,4 +68,6 @@ To count how many computers it is installed on, the app sends only **a random in
 
 ---
 
+<p align="center">☕ Program işine yaradıysa / If it helps you: <a href="https://buymeacoffee.com/erkemoz"><b>Bana bir kahve ısmarla · Buy me a coffee</b></a></p>
+
 <p align="center"><sub>© erkemoz · <a href="mailto:erkemoz@proton.me">erkemoz@proton.me</a> · Ücretsizdir / Free to use · Değiştirilip dağıtılamaz / Do not modify or redistribute</sub></p>
