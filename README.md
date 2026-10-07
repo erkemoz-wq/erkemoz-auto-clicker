@@ -37,7 +37,7 @@
 2. Windows **"Bilgisayarınız Windows tarafından korundu"** derse **Ek bilgi → Yine de çalıştır**'a tıkla. Program henüz ücretli bir kod imzalama sertifikasıyla imzalı olmadığı için bu uyarı çıkabilir.
 
 ### Gizlilik
-Program, kaç bilgisayarda kurulu olduğunu saymak için yalnız **rastgele bir kurulum numarası, sürüm ve arayüz dili** gönderir. İsim, IP adresi, dosya, tuş veya tıklama bilgisi gönderilmez ve saklanmaz. Ana penceredeki **"Anonim kullanım istatistiği gönder"** kutusunu kapatırsan hiçbir şey gönderilmez.
+Program, kaç bilgisayarda kurulu olduğunu ve ne kadar kullanıldığını saymak için yalnızca **rastgele bir kurulum numarası, sürüm, arayüz dili ve programın açık olup olmadığı** bilgisini gönderir. İsim, dosya, tuş ya da tıklama bilgisi gönderilmez; sunucu IP adresini kaydetmez. Ana penceredeki **"Anonim kullanım istatistiği gönder"** kutusunun işaretini kaldırırsan hiçbir şey gönderilmez.
 
 ### Bilmen gerekenler
 - Yönetici olarak çalışan pencerelere (ör. Görev Yöneticisi) Windows tuş ve tık gönderilmesine izin vermez.
@@ -61,7 +61,7 @@ Program, kaç bilgisayarda kurulu olduğunu saymak için yalnız **rastgele bir 
 2. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**. This can appear because the app is not yet signed with a paid code-signing certificate.
 
 ### Privacy
-To count how many computers it is installed on, the app sends only **a random install ID, the version and the interface language**. No name, IP address, files, keys or clicks are sent or stored. Uncheck **"Send anonymous usage statistics"** in the main window and nothing is sent.
+To count how many computers it is installed on and how much it is used, the app sends only **a random installation number, the version, the interface language and whether the app is running**. No name, files, keys or clicks are sent, and the server does not store your IP address. Uncheck **"Send anonymous usage statistics"** in the main window and nothing is sent.
 
 ### Good to know
 - Windows does not allow sending keys or clicks to windows running as administrator (e.g. Task Manager).
